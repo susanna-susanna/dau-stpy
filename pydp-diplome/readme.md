@@ -50,6 +50,6 @@
 
 [Артефакты и UE](https://docs.google.com/spreadsheets/d/1bL90Y0Om3xN5djOUCKt8fS014D0ZcdzjuO6HFghW6mA/edit#gid=0)
 
-[Логика](https://docs.google.com/document/d/1ee0f_02hqQ2uNZwgjjngKD48j_W_9yioK0Dy_VbivoQ/edit?pli=1)
+[Анализ](https://docs.google.com/document/d/1ee0f_02hqQ2uNZwgjjngKD48j_W_9yioK0Dy_VbivoQ/edit?pli=1)
 
 [Colab](https://colab.research.google.com/drive/1qmZthZ67KM5nPgSCp_5O41eDjFu_99vz#scrollTo=UNAjCshfzaeY)
